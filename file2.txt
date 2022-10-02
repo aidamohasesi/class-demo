@@ -7,3 +7,6 @@ Grocery list:
 2. bread
 3. eggs
 4. cheese
+5. bananas
+6. apples
+7. lettuce
